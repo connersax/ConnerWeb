@@ -1,14 +1,13 @@
 Crediting
 
-LinkedIn logo
-Profile svg
-Email svg
-gihub logo
-resume svg
+Email Icon
+<a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Uniconlabs - Flaticon</a>
 
+GitHub Icon
+<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Pixel perfect - Flaticon</a>
 
-<a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>
-or
-<div>Icon made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div>
+Resume Icon
+<a href="https://www.flaticon.com/free-icons/resume-and-cv" title="resume and cv icons">Resume and cv icons created by mim_studio - Flaticon</a>
 
-
+LinkedIn Icons
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Md Tanvirul Haque - Flaticon</a>
